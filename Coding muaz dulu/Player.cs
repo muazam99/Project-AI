@@ -35,7 +35,8 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
-        
+        Vector2 moveInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        moveAmount = moveInput.normalized * speed;
 
         if(moveInput != Vector2.zero)
         {
