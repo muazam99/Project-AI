@@ -54,6 +54,12 @@ EditorBuildSettings:
     path: 
     guid: 468e1e610b038ef4ab3e4fd23f37beea
   - enabled: 1
-    path: Assets/Cyber Impact/Scenes/NewScene.unity
+    path: Assets/Cyber Impact/Scenes/Level 1.unity
     guid: 7e276543e08f2bf4f8fdb629b24e8453
+  - enabled: 1
+    path: Assets/Cyber Impact/Scenes/Level3.unity
+    guid: 09362472651a3f54991e4edf8bbb4289
+  - enabled: 1
+    path: Assets/Cyber Impact/Scenes/Level3.unity
+    guid: 8750edc6810c74240b3aeef1bc93c144
   m_configObjects: {}
