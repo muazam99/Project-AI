@@ -29,31 +29,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
-  - enabled: 1
+  - enabled: 0
     path: 
-    guid: 240ec9824a41a4ecb8ccdf3507d1adc0
-  - enabled: 1
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: 
-    guid: beaba465fcff4439795f30ae75d58f6e
-  - enabled: 1
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: 
-    guid: 270072cfc180a47179cff49edea38e4c
-  - enabled: 1
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: 
-    guid: 68339a220262ac44392497f21bdf49ce
-  - enabled: 1
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: 
-    guid: 2f940f82585e18b42b0512a994a12502
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Cyber Impact/Scenes/Level2.unity
     guid: d8240c5b7fe3bf844af545741abd0cee
-  - enabled: 1
+  - enabled: 0
     path: 
-    guid: bddab1ab9a658514e8aa8b5f41ea439d
-  - enabled: 1
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: 
-    guid: 468e1e610b038ef4ab3e4fd23f37beea
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Cyber Impact/Scenes/NewScene.unity
+    path: Assets/Cyber Impact/Scenes/Level 1.unity
     guid: 7e276543e08f2bf4f8fdb629b24e8453
   m_configObjects: {}
